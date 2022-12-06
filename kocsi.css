@@ -1,0 +1,124 @@
+body {
+    background-color: black
+    padding: 10px;
+    color: #333a40; 
+    background-color:blue
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+header {        
+    overflow: hidden; 
+    max-height: 400px;
+}
+
+header img {
+    object-fit: cover;    
+}
+
+
+
+a {
+    color: rgb(32, 30, 49);
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    color: rgb(1, 0, 5);
+    margin: 20px 0px;    
+    font-weight: bold;
+}
+
+h1, h2 {
+    font-size: 28pt;
+}
+
+h3 {
+    font-size: 22pt;
+}
+
+
+
+
+
+.border {
+    margin: 15px;
+    padding: 10px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    height: 100%;
+    background-color: rgba(57, 90, 240, 0.5);
+}
+
+
+
+
+input[type="range"] {
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* WebKit */
+    height: 345px;
+    width: 50px;
+    margin-top: 8px;
+    margin-left: 18px;    
+}
+
+
+.lista{
+    line-height: 150%;
+    font-size: larger;
+
+
+}
+#merci{
+
+width:400px;
+
+}
+#supra{
+width:400px ;
+
+}
+#bmw{
+   width: 400px; 
+}
+#audi{
+    width: 400px; 
+}
+
+#lambo{
+    width: 400px; 
+}
+
+#ferrari{
+    width: 400px; 
+
+
+}
+#li{
+    font-size: 120%;
+    font-color: rgb(red, green, blue);
+
+}
+#egesz{
+    background-color:
+
+}
+.teto{
+    margin: 15px;
+    padding: 10px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    height: 100%;
+    background-color: rgba(153, 169, 241, 0.5);
+
+
+}
+#bazsi{
+
+font-size: medium;
+color: red;
+
+}
+#sportauto{
+
+    font-style:italic
+}
